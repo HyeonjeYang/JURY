@@ -4,6 +4,7 @@
 
 Check cloning results instead of Ctrl+F-ing through the map by hand.
 JURY checks features, inserts, junctions and forward-strand ORFs, and plans sequencing primers.
+(SnapGene에서 Ctrl + F로 비교하기 귀찮아서 만든 리포)
 
 ## Install
 
